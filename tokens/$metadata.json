@@ -1,7 +1,11 @@
 {
   "tokenSetOrder": [
-    "global",
+    "scale",
+    "typography",
+    "border",
+    "spacing",
+    "sizing",
     "colors",
-    "sizing"
+    "opacity"
   ]
 }

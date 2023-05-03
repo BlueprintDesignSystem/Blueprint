@@ -1,0 +1,25 @@
+{
+  "border": {
+    "sm": {
+      "value": {
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "md": {
+      "value": {
+        "width": "2",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "lg": {
+      "value": {
+        "width": "3",
+        "style": "solid"
+      },
+      "type": "border"
+    }
+  }
+}

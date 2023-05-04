@@ -1,28 +1,28 @@
 {
   "border": {
     "sm": {
-      "value": {
+      "$value": {
         "width": "1",
         "style": "solid",
         "color": "{light.gray.gray15}"
       },
-      "type": "border"
+      "$type": "border"
     },
     "md": {
-      "value": {
+      "$value": {
         "width": "2",
         "style": "solid",
         "color": "{light.gray.gray15}"
       },
-      "type": "border"
+      "$type": "border"
     },
     "lg": {
-      "value": {
+      "$value": {
         "width": "3",
         "style": "solid",
         "color": "{light.gray.gray15}"
       },
-      "type": "border"
+      "$type": "border"
     }
   }
 }

@@ -1,54 +1,78 @@
 {
   "spacing": {
+    "0": {
+      "value": "{scale}*0",
+      "type": "spacing"
+    },
     "1": {
-      "value": "{scale}*.5",
+      "value": "{scale}*.25",
       "type": "spacing"
     },
     "2": {
-      "value": "{scale}*1",
+      "value": "{scale}*.5",
       "type": "spacing"
     },
     "3": {
-      "value": "{scale}*2",
+      "value": "{scale}*1",
       "type": "spacing"
     },
     "4": {
-      "value": "{scale}*3",
+      "value": "{scale}*2",
       "type": "spacing"
     },
     "5": {
-      "value": "{scale}*4",
+      "value": "{scale}*3",
       "type": "spacing"
     },
     "6": {
-      "value": "{scale}*5",
+      "value": "{scale}*4",
       "type": "spacing"
     },
     "7": {
-      "value": "{scale}*6",
+      "value": "{scale}*5",
       "type": "spacing"
     },
     "8": {
-      "value": "{scale}*8",
+      "value": "{scale}*6",
       "type": "spacing"
     },
     "9": {
-      "value": "{scale}*10",
+      "value": "{scale}*7",
       "type": "spacing"
     },
     "10": {
-      "value": "{scale}*12",
+      "value": "{scale}*8",
       "type": "spacing"
     },
     "11": {
-      "value": "{scale}*16",
+      "value": "{scale}*9",
       "type": "spacing"
     },
     "12": {
-      "value": "{scale}*20",
+      "value": "{scale}*10",
       "type": "spacing"
     },
     "13": {
+      "value": "{scale}*11",
+      "type": "spacing"
+    },
+    "14": {
+      "value": "{scale}*12",
+      "type": "spacing"
+    },
+    "15": {
+      "value": "{scale}*14",
+      "type": "spacing"
+    },
+    "16": {
+      "value": "{scale}*16",
+      "type": "spacing"
+    },
+    "17": {
+      "value": "{scale}*20",
+      "type": "spacing"
+    },
+    "18": {
       "value": "{scale}*24",
       "type": "spacing"
     }

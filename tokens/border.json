@@ -3,21 +3,24 @@
     "sm": {
       "value": {
         "width": "1",
-        "style": "solid"
+        "style": "solid",
+        "color": "{light.gray.gray15}"
       },
       "type": "border"
     },
     "md": {
       "value": {
         "width": "2",
-        "style": "solid"
+        "style": "solid",
+        "color": "{light.gray.gray15}"
       },
       "type": "border"
     },
     "lg": {
       "value": {
         "width": "3",
-        "style": "solid"
+        "style": "solid",
+        "color": "{light.gray.gray15}"
       },
       "type": "border"
     }

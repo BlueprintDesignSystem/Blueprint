@@ -1,1355 +1,1669 @@
 {
-  "light": {
-    "red": {
-      "red5": {
-        "$type": "color",
-        "$value": "#FFF8F7",
-        "$description": "AA text: red70"
-      },
-      "red10": {
-        "$type": "color",
-        "$value": "#FFEEEA",
-        "$description": "AA text: red70"
-      },
-      "red15": {
-        "$type": "color",
-        "$value": "#FDDDD5",
-        "$description": "AA text: red70"
-      },
-      "red20": {
-        "$type": "color",
-        "$value": "#FFCDC1",
-        "$description": "AA text: red80"
-      },
-      "red25": {
-        "$type": "color",
-        "$value": "#FFB9A8",
-        "$description": "AA text: red80"
-      },
-      "red30": {
-        "$type": "color",
-        "$value": "#FF9886",
-        "$description": "Condensed Marketing Palette: \nCoral Light\n\nAA text: red90"
-      },
-      "red40": {
-        "$type": "color",
-        "$value": "#FD756A",
-        "$description": "AA text: red100"
-      },
-      "red50*": {
-        "$type": "color",
-        "$value": "#EF5963",
-        "$description": "Condensed Marketing Palette: Main Coral\n\nPrimary Brand Color, AA text: red100"
-      },
-      "red60": {
-        "$type": "color",
-        "$value": "#D33A5A",
-        "$description": "Condensed Marketing Palette: Coral Dark\n\nAA text: gray0"
-      },
-      "red70": {
-        "$type": "color",
-        "$value": "#B5254C",
-        "$description": "AA text: red10"
-      },
-      "red80": {
-        "$type": "color",
-        "$value": "#8B1439",
-        "$description": "AA text: red20"
-      },
-      "red90": {
-        "$type": "color",
-        "$value": "#61002F",
-        "$description": "AA text: red30"
-      },
-      "red100": {
-        "$type": "color",
-        "$value": "#260314",
-        "$description": "AA text: red40"
+  "gray": {
+    "0": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "AA text: gray60"
+    },
+    "5": {
+      "value": "#f7f9fc",
+      "type": "color",
+      "description": "AA text: gray60"
+    },
+    "10": {
+      "value": "#f1f4fa",
+      "type": "color",
+      "description": "AA text: gray60"
+    },
+    "15": {
+      "value": "#e2e7f0",
+      "type": "color",
+      "description": "Border Color \n\nAA text: gray70"
+    },
+    "20": {
+      "value": "#d3dbe2",
+      "type": "color",
+      "description": "AA text: gray70"
+    },
+    "25": {
+      "value": "#c7d0d9",
+      "type": "color",
+      "description": "AA text: gray70"
+    },
+    "30": {
+      "value": "#acb8c3",
+      "type": "color",
+      "description": "AA text: gray80"
+    },
+    "40": {
+      "value": "#8f9ba8",
+      "type": "color",
+      "description": "AA text: gray90"
+    },
+    "50": {
+      "value": "#7b8493",
+      "type": "color",
+      "description": "AA text: gray100"
+    },
+    "60": {
+      "value": "#666d7c",
+      "type": "color",
+      "description": "Muted Text Color\n\nAA text: gray5"
+    },
+    "70": {
+      "value": "#4e555f",
+      "type": "color",
+      "description": "AA text: gray20"
+    },
+    "80": {
+      "value": "#383c45",
+      "type": "color",
+      "description": "AA text: gray30"
+    },
+    "90": {
+      "value": "#202227",
+      "type": "color",
+      "description": "Default Product Text Color\n\nAA text: gray40"
+    },
+    "100": {
+      "value": "#0e0f10",
+      "type": "color",
+      "description": "AA text: gray40"
+    }
+  },
+  "red": {
+    "5": {
+      "value": "#fff8f7",
+      "type": "color",
+      "description": "AA text: red70"
+    },
+    "10": {
+      "value": "#ffeeea",
+      "type": "color",
+      "description": "AA text: red70"
+    },
+    "15": {
+      "value": "#fdddd5",
+      "type": "color",
+      "description": "AA text: red70"
+    },
+    "20": {
+      "value": "#ffcdc1",
+      "type": "color",
+      "description": "AA text: red80"
+    },
+    "25": {
+      "value": "#ffb9a8",
+      "type": "color",
+      "description": "AA text: red80"
+    },
+    "30": {
+      "value": "#ff9886",
+      "type": "color",
+      "description": "Condensed Marketing Palette: \nCoral Light\n\nAA text: red90"
+    },
+    "40": {
+      "value": "#fd756a",
+      "type": "color",
+      "description": "AA text: red100"
+    },
+    "50": {
+      "value": "#ef5963",
+      "type": "color",
+      "description": "Condensed Marketing Palette: Main Coral\n\nPrimary Brand Color, AA text: red100"
+    },
+    "60": {
+      "value": "#d33a5a",
+      "type": "color",
+      "description": "Condensed Marketing Palette: Coral Dark\n\nAA text: gray0"
+    },
+    "70": {
+      "value": "#b5254c",
+      "type": "color",
+      "description": "AA text: red10"
+    },
+    "80": {
+      "value": "#8b1439",
+      "type": "color",
+      "description": "AA text: red20"
+    },
+    "90": {
+      "value": "#61002f",
+      "type": "color",
+      "description": "AA text: red30"
+    },
+    "100": {
+      "value": "#260314",
+      "type": "color",
+      "description": "AA text: red40"
+    }
+  },
+  "orange": {
+    "5": {
+      "value": "#fffaf4",
+      "type": "color",
+      "description": "AA text: orange70"
+    },
+    "10": {
+      "value": "#ffefde",
+      "type": "color",
+      "description": "AA text: orange70"
+    },
+    "15": {
+      "value": "#ffe2be",
+      "type": "color",
+      "description": "AA text: orange70"
+    },
+    "20": {
+      "value": "#ffd49a",
+      "type": "color",
+      "description": "Condensed Marketing Palette: Yellow Light\n\nAA text: orange80"
+    },
+    "25": {
+      "value": "#ffc26f",
+      "type": "color",
+      "description": "Condensed Marketing Palette: Main Yellow\n\nAA text: orange80\nWeb Attention Text"
+    },
+    "30": {
+      "value": "#ffa44a",
+      "type": "color",
+      "description": "Condensed Marketing Palette: Yellow Dark\n\nAA text: orange90"
+    },
+    "40": {
+      "value": "#f48432",
+      "type": "color",
+      "description": "AA text: orange100"
+    },
+    "50": {
+      "value": "#e56b03",
+      "type": "color",
+      "description": "AA text: orange100"
+    },
+    "60": {
+      "value": "#cb4f00",
+      "type": "color",
+      "description": "AA text: gray0"
+    },
+    "70": {
+      "value": "#af3700",
+      "type": "color",
+      "description": "AA text: orange5"
+    },
+    "80": {
+      "value": "#842301",
+      "type": "color",
+      "description": "AA text: orange20"
+    },
+    "90": {
+      "value": "#511000",
+      "type": "color",
+      "description": "AA text: orange30"
+    },
+    "100": {
+      "value": "#290500",
+      "type": "color",
+      "description": "AA text: orange50"
+    }
+  },
+  "yellow": {
+    "5": {
+      "value": "#fffbef",
+      "type": "color",
+      "description": "AA text: yellow60"
+    },
+    "10": {
+      "value": "#fdf3d3",
+      "type": "color",
+      "description": "AA text: yellow70"
+    },
+    "15": {
+      "value": "#fbe9b1",
+      "type": "color",
+      "description": "AA text: yellow70"
+    },
+    "20": {
+      "value": "#f8dc83",
+      "type": "color",
+      "description": "AA text: yellow70"
+    },
+    "25": {
+      "value": "#efcf61",
+      "type": "color",
+      "description": "AA text: yellow80"
+    },
+    "30": {
+      "value": "#e2ba2b",
+      "type": "color",
+      "description": "AA text: yellow80"
+    },
+    "40": {
+      "value": "#c99a0d",
+      "type": "color",
+      "description": "AA text: yellow90"
+    },
+    "50": {
+      "value": "#b78200",
+      "type": "color",
+      "description": "AA text: yellow90"
+    },
+    "60": {
+      "value": "#9f6600",
+      "type": "color",
+      "description": "AA text: yellow0"
+    },
+    "70": {
+      "value": "#854d00",
+      "type": "color",
+      "description": "AA text: yellow15"
+    },
+    "80": {
+      "value": "#653200",
+      "type": "color",
+      "description": "AA text: yellow30"
+    },
+    "90": {
+      "value": "#3d1a00",
+      "type": "color",
+      "description": "AA text: yellow50"
+    },
+    "100": {
+      "value": "#1e0a01",
+      "type": "color",
+      "description": "AA text: yellow50"
+    }
+  },
+  "green": {
+    "5": {
+      "value": "#f5fffb",
+      "type": "color",
+      "description": "AA text: green30"
+    },
+    "10": {
+      "value": "#ddfdef",
+      "type": "color",
+      "description": "AA text: green70"
+    },
+    "15": {
+      "value": "#c4fae2",
+      "type": "color",
+      "description": "AA text: green80"
+    },
+    "20": {
+      "value": "#aff2d7",
+      "type": "color",
+      "description": "AA text: green80"
+    },
+    "25": {
+      "value": "#94ebc8",
+      "type": "color",
+      "description": "AA text: green80"
+    },
+    "30": {
+      "value": "#69ddab",
+      "type": "color",
+      "description": "AA text: green90"
+    },
+    "40": {
+      "value": "#31ce8d",
+      "type": "color",
+      "description": "AA text: green100"
+    },
+    "50": {
+      "value": "#1fba7a",
+      "type": "color",
+      "description": "AA text: green90"
+    },
+    "60": {
+      "value": "#06a260",
+      "type": "color",
+      "description": "AA text: green100"
+    },
+    "70": {
+      "value": "#057e4b",
+      "type": "color",
+      "description": "AA text: green5"
+    },
+    "80": {
+      "value": "#005c35",
+      "type": "color",
+      "description": "AA text: green20"
+    },
+    "90": {
+      "value": "#01321d",
+      "type": "color",
+      "description": "AA text: green50"
+    },
+    "100": {
+      "value": "#001a0e",
+      "type": "color",
+      "description": "AA text: green60"
+    }
+  },
+  "teal": {
+    "5": {
+      "value": "#f3feff",
+      "type": "color",
+      "description": "AA text: teal70"
+    },
+    "10": {
+      "value": "#d8ffff",
+      "type": "color",
+      "description": "AA text: teal70"
+    },
+    "15": {
+      "value": "#b0ffff",
+      "type": "color",
+      "description": "AA text: teal70"
+    },
+    "20": {
+      "value": "#88ffff",
+      "type": "color",
+      "description": "AA text: teal70"
+    },
+    "25": {
+      "value": "#64fcfc",
+      "type": "color",
+      "description": "AA text: teal80"
+    },
+    "30": {
+      "value": "#28f0f0",
+      "type": "color",
+      "description": "AA text: teal80"
+    },
+    "40": {
+      "value": "#00d8d8",
+      "type": "color",
+      "description": "Primary Brand Color \n\nCondensed Marketing Palette: \nMain Teal\n\nAA text: teal80"
+    },
+    "50": {
+      "value": "#00bcc4",
+      "type": "color",
+      "description": "Condensed Marketing Palette: Teal Medium \n\nAA text: teal90"
+    },
+    "60": {
+      "value": "#0597a3",
+      "type": "color",
+      "description": "AA text: teal100"
+    },
+    "70": {
+      "value": "#007589",
+      "type": "color",
+      "description": "Condensed Marketing Palette: Teal Dark - text\n\nAA text: teal10"
+    },
+    "80": {
+      "value": "#00546b",
+      "type": "color",
+      "description": "AA text: teal40"
+    },
+    "90": {
+      "value": "#002b42",
+      "type": "color",
+      "description": "AA text: teal50"
+    },
+    "100": {
+      "value": "#001524",
+      "type": "color",
+      "description": "AA text: teal60"
+    }
+  },
+  "blue": {
+    "5": {
+      "value": "#fafdff",
+      "type": "color",
+      "description": "AA text: blue60"
+    },
+    "10": {
+      "value": "#e6f6ff",
+      "type": "color",
+      "description": "AA text: blue60"
+    },
+    "15": {
+      "value": "#ceedff",
+      "type": "color",
+      "description": "AA text: blue70"
+    },
+    "20": {
+      "value": "#bce4ff",
+      "type": "color",
+      "description": "AA text: blue70"
+    },
+    "25": {
+      "value": "#a8daff",
+      "type": "color",
+      "description": "AA text: blue70"
+    },
+    "30": {
+      "value": "#80c4ff",
+      "type": "color",
+      "description": "AA text: blue80"
+    },
+    "40": {
+      "value": "#4dabff",
+      "type": "color",
+      "description": "AA text: blue80"
+    },
+    "50": {
+      "value": "#278cff",
+      "type": "color",
+      "description": "Condensed Marketing Palette: Electric Blue Light\n\nAA text: blue100"
+    },
+    "60": {
+      "value": "#0763fb",
+      "type": "color",
+      "description": "Primary Brand Color\n\nCondensed Marketing Palette: Main Electric Blue\n\nAA text: blue5 Action"
+    },
+    "70": {
+      "value": "#004fd6",
+      "type": "color",
+      "description": "Condensed Marketing Palette: Electric Blue Dark \n\nAA text: blue20"
+    },
+    "80": {
+      "value": "#002f77",
+      "type": "color",
+      "description": "Alias: brandPrimary\n\nCondensed Marketing Palette: Navy Light\n\nAA text: blue40"
+    },
+    "90": {
+      "value": "#001a43",
+      "type": "color",
+      "description": "Primary Brand Color\n\nCondensed Marketing Palette: Main Navy\n\nAA text: blue50"
+    },
+    "100": {
+      "value": "#000831",
+      "type": "color",
+      "description": "Condensed Marketing Palette: Navy Dark\n\nAA text: blue50"
+    }
+  },
+  "indigo": {
+    "5": {
+      "value": "#fafaff",
+      "type": "color",
+      "description": "AA text: indigo60"
+    },
+    "10": {
+      "value": "#f0f1ff",
+      "type": "color",
+      "description": "AA text: indigo70"
+    },
+    "15": {
+      "value": "#e0e3ff",
+      "type": "color",
+      "description": "AA text: indigo70"
+    },
+    "20": {
+      "value": "#d1d6ff",
+      "type": "color",
+      "description": "AA text: indigo70"
+    },
+    "25": {
+      "value": "#c4cbff",
+      "type": "color",
+      "description": "AA text: indigo80"
+    },
+    "30": {
+      "value": "#a5b0ff",
+      "type": "color",
+      "description": "AA text: indigo80"
+    },
+    "40": {
+      "value": "#8192f3",
+      "type": "color",
+      "description": "AA text: indigo90"
+    },
+    "50": {
+      "value": "#697ef5",
+      "type": "color",
+      "description": "AA text: indigo100"
+    },
+    "60": {
+      "value": "#4d65f0",
+      "type": "color",
+      "description": "AA text: indigo0"
+    },
+    "70": {
+      "value": "#314cd8",
+      "type": "color",
+      "description": "AA text: indigo10"
+    },
+    "80": {
+      "value": "#1f36ad",
+      "type": "color",
+      "description": "AA text: indigo30"
+    },
+    "90": {
+      "value": "#111f6a",
+      "type": "color",
+      "description": "AA text: indigo40"
+    },
+    "100": {
+      "value": "#080f33",
+      "type": "color",
+      "description": "AA text: indigo50"
+    }
+  },
+  "purple": {
+    "5": {
+      "value": "#fcf8ff",
+      "type": "color",
+      "description": "AA text: purple60"
+    },
+    "10": {
+      "value": "#f6edff",
+      "type": "color",
+      "description": "AA text: purple70"
+    },
+    "15": {
+      "value": "#ecddff",
+      "type": "color",
+      "description": "AA text: purple70"
+    },
+    "20": {
+      "value": "#e4cefd",
+      "type": "color",
+      "description": "AA text: purple70"
+    },
+    "25": {
+      "value": "#dabffd",
+      "type": "color",
+      "description": "AA text: purple80"
+    },
+    "30": {
+      "value": "#c5a0fb",
+      "type": "color",
+      "description": "AA text: purple80"
+    },
+    "40": {
+      "value": "#aa7cf3",
+      "type": "color",
+      "description": "AA text: purple90"
+    },
+    "50": {
+      "value": "#9967ef",
+      "type": "color",
+      "description": "AA text: purple100"
+    },
+    "60": {
+      "value": "#834be7",
+      "type": "color",
+      "description": "AA text: purple0"
+    },
+    "70": {
+      "value": "#6831ce",
+      "type": "color",
+      "description": "AA text: purple15"
+    },
+    "80": {
+      "value": "#4a2593",
+      "type": "color",
+      "description": "AA text: purple30"
+    },
+    "90": {
+      "value": "#2c145c",
+      "type": "color",
+      "description": "AA text: purple40"
+    },
+    "100": {
+      "value": "#150a2e",
+      "type": "color",
+      "description": "AA text: purple50"
+    }
+  },
+  "pink": {
+    "5": {
+      "value": "#fbf7ff",
+      "type": "color",
+      "description": "AA text: pink60"
+    },
+    "10": {
+      "value": "#ffeaff",
+      "type": "color",
+      "description": "AA text: pink70"
+    },
+    "15": {
+      "value": "#ffd3ff",
+      "type": "color",
+      "description": "AA text: pink70"
+    },
+    "20": {
+      "value": "#fac2f9",
+      "type": "color",
+      "description": "AA text: pink70"
+    },
+    "25": {
+      "value": "#fab0f6",
+      "type": "color",
+      "description": "AA text: pink80"
+    },
+    "30": {
+      "value": "#ef8fe7",
+      "type": "color",
+      "description": "AA text: pink80"
+    },
+    "40": {
+      "value": "#dc6bcf",
+      "type": "color",
+      "description": "AA text: pink90"
+    },
+    "50": {
+      "value": "#cd56bd",
+      "type": "color",
+      "description": "AA text: n/a"
+    },
+    "60": {
+      "value": "#b140a1",
+      "type": "color",
+      "description": "AA text: pink0"
+    },
+    "70": {
+      "value": "#952885",
+      "type": "color",
+      "description": "AA text: pink15"
+    },
+    "80": {
+      "value": "#711964",
+      "type": "color",
+      "description": "AA text: pink30"
+    },
+    "90": {
+      "value": "#460c3c",
+      "type": "color",
+      "description": "AA text: pink40"
+    },
+    "100": {
+      "value": "#25041f",
+      "type": "color",
+      "description": "AA text: pink50"
+    }
+  },
+  "alpha": {
+    "5": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".05",
+            "space": "hsl"
+          }
+        }
       }
     },
-    "yellow": {
-      "yellow5": {
-        "$type": "color",
-        "$value": "#FFFBEF",
-        "$description": "AA text: yellow60"
-      },
-      "yellow10": {
-        "$type": "color",
-        "$value": "#FDF3D3",
-        "$description": "AA text: yellow70"
-      },
-      "yellow15": {
-        "$type": "color",
-        "$value": "#FBE9B1",
-        "$description": "AA text: yellow70"
-      },
-      "yellow20": {
-        "$type": "color",
-        "$value": "#F8DC83",
-        "$description": "AA text: yellow70"
-      },
-      "yellow25": {
-        "$type": "color",
-        "$value": "#EFCF61",
-        "$description": "AA text: yellow80"
-      },
-      "yellow30": {
-        "$type": "color",
-        "$value": "#E2BA2B",
-        "$description": "AA text: yellow80"
-      },
-      "yellow40": {
-        "$type": "color",
-        "$value": "#C99A0D",
-        "$description": "AA text: yellow90"
-      },
-      "yellow50": {
-        "$type": "color",
-        "$value": "#B78200",
-        "$description": "AA text: yellow90"
-      },
-      "yellow60": {
-        "$type": "color",
-        "$value": "#9F6600",
-        "$description": "AA text: yellow0"
-      },
-      "yellow70": {
-        "$type": "color",
-        "$value": "#854D00",
-        "$description": "AA text: yellow15"
-      },
-      "yellow80": {
-        "$type": "color",
-        "$value": "#653200",
-        "$description": "AA text: yellow30"
-      },
-      "yellow90": {
-        "$type": "color",
-        "$value": "#3D1A00",
-        "$description": "AA text: yellow50"
-      },
-      "yellow100": {
-        "$type": "color",
-        "$value": "#1E0A01",
-        "$description": "AA text: yellow50"
+    "10": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".1",
+            "space": "hsl"
+          }
+        }
       }
     },
-    "indigo": {
-      "indigo5": {
-        "$type": "color",
-        "$value": "#FAFAFF",
-        "$description": "AA text: indigo60"
-      },
-      "indigo10": {
-        "$type": "color",
-        "$value": "#F0F1FF",
-        "$description": "AA text: indigo70"
-      },
-      "indigo15": {
-        "$type": "color",
-        "$value": "#E0E3FF",
-        "$description": "AA text: indigo70"
-      },
-      "indigo20": {
-        "$type": "color",
-        "$value": "#D1D6FF",
-        "$description": "AA text: indigo70"
-      },
-      "indigo25": {
-        "$type": "color",
-        "$value": "#C4CBFF",
-        "$description": "AA text: indigo80"
-      },
-      "indigo30": {
-        "$type": "color",
-        "$value": "#A5B0FF",
-        "$description": "AA text: indigo80"
-      },
-      "indigo40": {
-        "$type": "color",
-        "$value": "#8192F3",
-        "$description": "AA text: indigo90"
-      },
-      "indigo50": {
-        "$type": "color",
-        "$value": "#697EF5",
-        "$description": "AA text: indigo100"
-      },
-      "indigo60": {
-        "$type": "color",
-        "$value": "#4D65F0",
-        "$description": "AA text: indigo0"
-      },
-      "indigo70": {
-        "$type": "color",
-        "$value": "#314CD8",
-        "$description": "AA text: indigo10"
-      },
-      "indigo80": {
-        "$type": "color",
-        "$value": "#1F36AD",
-        "$description": "AA text: indigo30"
-      },
-      "indigo90": {
-        "$type": "color",
-        "$value": "#111F6A",
-        "$description": "AA text: indigo40"
-      },
-      "indigo100": {
-        "$type": "color",
-        "$value": "#080F33",
-        "$description": "AA text: indigo50"
+    "15": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".15",
+            "space": "hsl"
+          }
+        }
       }
     },
-    "gray": {
-      "gray0": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "AA text: gray60"
-      },
-      "gray5": {
-        "$type": "color",
-        "$value": "#F7F9FC",
-        "$description": "AA text: gray60"
-      },
-      "gray10": {
-        "$type": "color",
-        "$value": "#F1F4FA",
-        "$description": "AA text: gray60"
-      },
-      "gray15": {
-        "$type": "color",
-        "$value": "#E2E7F0",
-        "$description": "Border Color \n\nAA text: gray70"
-      },
-      "gray20": {
-        "$type": "color",
-        "$value": "#D3DBE2",
-        "$description": "AA text: gray70"
-      },
-      "gray25": {
-        "$type": "color",
-        "$value": "#C7D0D9",
-        "$description": "AA text: gray70"
-      },
-      "gray30": {
-        "$type": "color",
-        "$value": "#ACB8C3",
-        "$description": "AA text: gray80"
-      },
-      "gray40": {
-        "$type": "color",
-        "$value": "#8F9BA8",
-        "$description": "AA text: gray90"
-      },
-      "gray50": {
-        "$type": "color",
-        "$value": "#7B8493",
-        "$description": "AA text: gray100"
-      },
-      "gray60": {
-        "$type": "color",
-        "$value": "#666D7C",
-        "$description": "Muted Text Color\n\nAA text: gray5"
-      },
-      "gray70": {
-        "$type": "color",
-        "$value": "#4E555F",
-        "$description": "AA text: gray20"
-      },
-      "gray80*": {
-        "$type": "color",
-        "$value": "#383C45",
-        "$description": "AA text: gray30"
-      },
-      "gray90": {
-        "$type": "color",
-        "$value": "#202227",
-        "$description": "Default Product Text Color\n\nAA text: gray40"
-      },
-      "gray100": {
-        "$type": "color",
-        "$value": "#0E0F10",
-        "$description": "AA text: gray40"
+    "20": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".2",
+            "space": "hsl"
+          }
+        }
       }
     },
-    "teal": {
-      "teal5": {
-        "$type": "color",
-        "$value": "#F3FEFF",
-        "$description": "AA text: teal70"
-      },
-      "teal10": {
-        "$type": "color",
-        "$value": "#D8FFFF",
-        "$description": "AA text: teal70"
-      },
-      "teal15": {
-        "$type": "color",
-        "$value": "#B0FFFF",
-        "$description": "AA text: teal70"
-      },
-      "teal20": {
-        "$type": "color",
-        "$value": "#88FFFF",
-        "$description": "AA text: teal70"
-      },
-      "teal25": {
-        "$type": "color",
-        "$value": "#64FCFC",
-        "$description": "AA text: teal80"
-      },
-      "teal30": {
-        "$type": "color",
-        "$value": "#28F0F0",
-        "$description": "AA text: teal80"
-      },
-      "teal40*": {
-        "$type": "color",
-        "$value": "#00D8D8",
-        "$description": "Primary Brand Color \n\nCondensed Marketing Palette: \nMain Teal\n\nAA text: teal80"
-      },
-      "teal50": {
-        "$type": "color",
-        "$value": "#00BCC4",
-        "$description": "Condensed Marketing Palette: Teal Medium \n\nAA text: teal90"
-      },
-      "teal60": {
-        "$type": "color",
-        "$value": "#0597A3",
-        "$description": "AA text: teal100"
-      },
-      "teal70": {
-        "$type": "color",
-        "$value": "#007589",
-        "$description": "Condensed Marketing Palette: Teal Dark - text\n\nAA text: teal10"
-      },
-      "teal80": {
-        "$type": "color",
-        "$value": "#00546B",
-        "$description": "AA text: teal40"
-      },
-      "teal90": {
-        "$type": "color",
-        "$value": "#002B42",
-        "$description": "AA text: teal50"
-      },
-      "teal100": {
-        "$type": "color",
-        "$value": "#001524",
-        "$description": "AA text: teal60"
+    "25": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".25",
+            "space": "hsl"
+          }
+        }
       }
     },
-    "orange": {
-      "orange5": {
-        "$type": "color",
-        "$value": "#FFFAF4",
-        "$description": "AA text: orange70"
-      },
-      "orange10": {
-        "$type": "color",
-        "$value": "#FFEFDE",
-        "$description": "AA text: orange70"
-      },
-      "orange15": {
-        "$type": "color",
-        "$value": "#FFE2BE",
-        "$description": "AA text: orange70"
-      },
-      "orange20": {
-        "$type": "color",
-        "$value": "#FFD49A",
-        "$description": "Condensed Marketing Palette: Yellow Light\n\nAA text: orange80"
-      },
-      "orange25*": {
-        "$type": "color",
-        "$value": "#FFC26F",
-        "$description": "Condensed Marketing Palette: Main Yellow\n\nAA text: orange80\nWeb Attention Text"
-      },
-      "orange30": {
-        "$type": "color",
-        "$value": "#FFA44A",
-        "$description": "Condensed Marketing Palette: Yellow Dark\n\nAA text: orange90"
-      },
-      "orange40": {
-        "$type": "color",
-        "$value": "#F48432",
-        "$description": "AA text: orange100"
-      },
-      "orange50": {
-        "$type": "color",
-        "$value": "#E56B03",
-        "$description": "AA text: orange100"
-      },
-      "orange60": {
-        "$type": "color",
-        "$value": "#CB4F00",
-        "$description": "AA text: gray0"
-      },
-      "orange70": {
-        "$type": "color",
-        "$value": "#AF3700",
-        "$description": "AA text: orange5"
-      },
-      "orange80": {
-        "$type": "color",
-        "$value": "#842301",
-        "$description": "AA text: orange20"
-      },
-      "orange90": {
-        "$type": "color",
-        "$value": "#511000",
-        "$description": "AA text: orange30"
-      },
-      "orange100": {
-        "$type": "color",
-        "$value": "#290500",
-        "$description": "AA text: orange50"
+    "30": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".3",
+            "space": "hsl"
+          }
+        }
       }
     },
-    "green": {
-      "green5": {
-        "$type": "color",
-        "$value": "#F5FFFB",
-        "$description": "AA text: green30"
-      },
-      "green10": {
-        "$type": "color",
-        "$value": "#DDFDEF",
-        "$description": "AA text: green70"
-      },
-      "green15": {
-        "$type": "color",
-        "$value": "#C4FAE2",
-        "$description": "AA text: green80"
-      },
-      "green20": {
-        "$type": "color",
-        "$value": "#AFF2D7",
-        "$description": "AA text: green80"
-      },
-      "green25": {
-        "$type": "color",
-        "$value": "#94EBC8",
-        "$description": "AA text: green80"
-      },
-      "green30": {
-        "$type": "color",
-        "$value": "#69DDAB",
-        "$description": "AA text: green90"
-      },
-      "green40": {
-        "$type": "color",
-        "$value": "#31CE8D",
-        "$description": "AA text: green100"
-      },
-      "green50": {
-        "$type": "color",
-        "$value": "#1FBA7A",
-        "$description": "AA text: green90"
-      },
-      "green60": {
-        "$type": "color",
-        "$value": "#06A260",
-        "$description": "AA text: green100"
-      },
-      "green70": {
-        "$type": "color",
-        "$value": "#057E4B",
-        "$description": "AA text: green5"
-      },
-      "green80": {
-        "$type": "color",
-        "$value": "#005C35",
-        "$description": "AA text: green20"
-      },
-      "green90": {
-        "$type": "color",
-        "$value": "#01321D",
-        "$description": "AA text: green50"
-      },
-      "green100": {
-        "$type": "color",
-        "$value": "#001A0E",
-        "$description": "AA text: green60"
+    "40": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".4",
+            "space": "hsl"
+          }
+        }
       }
     },
-    "purple": {
-      "purple5": {
-        "$type": "color",
-        "$value": "#FCF8FF",
-        "$description": "AA text: purple60"
-      },
-      "purple10": {
-        "$type": "color",
-        "$value": "#F6EDFF",
-        "$description": "AA text: purple70"
-      },
-      "purple15": {
-        "$type": "color",
-        "$value": "#ECDDFF",
-        "$description": "AA text: purple70"
-      },
-      "purple20": {
-        "$type": "color",
-        "$value": "#E4CEFD",
-        "$description": "AA text: purple70"
-      },
-      "purple25": {
-        "$type": "color",
-        "$value": "#DABFFD",
-        "$description": "AA text: purple80"
-      },
-      "purple30": {
-        "$type": "color",
-        "$value": "#C5A0FB",
-        "$description": "AA text: purple80"
-      },
-      "purple40": {
-        "$type": "color",
-        "$value": "#AA7CF3",
-        "$description": "AA text: purple90"
-      },
-      "purple50": {
-        "$type": "color",
-        "$value": "#9967EF",
-        "$description": "AA text: purple100"
-      },
-      "purple60": {
-        "$type": "color",
-        "$value": "#834BE7",
-        "$description": "AA text: purple0"
-      },
-      "purple70": {
-        "$type": "color",
-        "$value": "#6831CE",
-        "$description": "AA text: purple15"
-      },
-      "purple80": {
-        "$type": "color",
-        "$value": "#4A2593",
-        "$description": "AA text: purple30"
-      },
-      "purple90": {
-        "$type": "color",
-        "$value": "#2C145C",
-        "$description": "AA text: purple40"
-      },
-      "purple100": {
-        "$type": "color",
-        "$value": "#150A2E",
-        "$description": "AA text: purple50"
+    "50": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".5",
+            "space": "hsl"
+          }
+        }
       }
     },
-    "blue": {
-      "blue5": {
-        "$type": "color",
-        "$value": "#FAFDFF",
-        "$description": "AA text: blue60"
-      },
-      "blue10": {
-        "$type": "color",
-        "$value": "#E6F6FF",
-        "$description": "AA text: blue60"
-      },
-      "blue15": {
-        "$type": "color",
-        "$value": "#CEEDFF",
-        "$description": "AA text: blue70"
-      },
-      "blue20": {
-        "$type": "color",
-        "$value": "#BCE4FF",
-        "$description": "AA text: blue70"
-      },
-      "blue25": {
-        "$type": "color",
-        "$value": "#A8DAFF",
-        "$description": "AA text: blue70"
-      },
-      "blue30": {
-        "$type": "color",
-        "$value": "#80C4FF",
-        "$description": "AA text: blue80"
-      },
-      "blue40": {
-        "$type": "color",
-        "$value": "#4DABFF",
-        "$description": "AA text: blue80"
-      },
-      "blue50": {
-        "$type": "color",
-        "$value": "#278CFF",
-        "$description": "Condensed Marketing Palette: Electric Blue Light\n\nAA text: blue100"
-      },
-      "blue60*": {
-        "$type": "color",
-        "$value": "#0763FB",
-        "$description": "Primary Brand Color\n\nCondensed Marketing Palette: Main Electric Blue\n\nAA text: blue5 Action"
-      },
-      "blue70": {
-        "$type": "color",
-        "$value": "#004FD6",
-        "$description": "Condensed Marketing Palette: Electric Blue Dark \n\nAA text: blue20"
-      },
-      "blue80": {
-        "$type": "color",
-        "$value": "#002F77",
-        "$description": "Alias: brandPrimary\n\nCondensed Marketing Palette: Navy Light\n\nAA text: blue40"
-      },
-      "blue90*": {
-        "$type": "color",
-        "$value": "#001A43",
-        "$description": "Primary Brand Color\n\nCondensed Marketing Palette: Main Navy\n\nAA text: blue50"
-      },
-      "blue100": {
-        "$type": "color",
-        "$value": "#000831",
-        "$description": "Condensed Marketing Palette: Navy Dark\n\nAA text: blue50"
+    "60": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".6",
+            "space": "hsl"
+          }
+        }
       }
     },
-    "pink": {
-      "pink5": {
-        "$type": "color",
-        "$value": "#FBF7FF",
-        "$description": "AA text: pink60"
-      },
-      "pink10": {
-        "$type": "color",
-        "$value": "#FFEAFF",
-        "$description": "AA text: pink70"
-      },
-      "pink15": {
-        "$type": "color",
-        "$value": "#FFD3FF",
-        "$description": "AA text: pink70"
-      },
-      "pink20": {
-        "$type": "color",
-        "$value": "#FAC2F9",
-        "$description": "AA text: pink70"
-      },
-      "pink25": {
-        "$type": "color",
-        "$value": "#FAB0F6",
-        "$description": "AA text: pink80"
-      },
-      "pink30": {
-        "$type": "color",
-        "$value": "#EF8FE7",
-        "$description": "AA text: pink80"
-      },
-      "pink40": {
-        "$type": "color",
-        "$value": "#DC6BCF",
-        "$description": "AA text: pink90"
-      },
-      "pink50": {
-        "$type": "color",
-        "$value": "#CD56BD",
-        "$description": "AA text: n/a"
-      },
-      "pink60": {
-        "$type": "color",
-        "$value": "#B140A1",
-        "$description": "AA text: pink0"
-      },
-      "pink70": {
-        "$type": "color",
-        "$value": "#952885",
-        "$description": "AA text: pink15"
-      },
-      "pink80": {
-        "$type": "color",
-        "$value": "#711964",
-        "$description": "AA text: pink30"
-      },
-      "pink90": {
-        "$type": "color",
-        "$value": "#460C3C",
-        "$description": "AA text: pink40"
-      },
-      "pink100": {
-        "$type": "color",
-        "$value": "#25041F",
-        "$description": "AA text: pink50"
+    "70": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".7",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "80": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".8",
+            "space": "hsl"
+          }
+        }
+      }
+    },
+    "90": {
+      "value": "{gray.100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": ".9",
+            "space": "hsl"
+          }
+        }
       }
     }
   },
   "dark": {
-    "blue": {
-      "blue5": {
-        "$type": "color",
-        "$value": "#020B36",
-        "$description": "AA text: blue40"
-      },
-      "blue10": {
-        "$type": "color",
-        "$value": "#07153C",
-        "$description": "AA text: blue50"
-      },
-      "blue15*": {
-        "$type": "color",
-        "$value": "#031E49",
-        "$description": "AA text: blue50"
-      },
-      "blue20": {
-        "$type": "color",
-        "$value": "#05285C",
-        "$description": "AA text: blue50"
-      },
-      "blue25": {
-        "$type": "color",
-        "$value": "#043C8F",
-        "$description": "AA text: blue60"
-      },
-      "blue30": {
-        "$type": "color",
-        "$value": "#0D59DE",
-        "$description": "AA text: blue90"
-      },
-      "blue40": {
-        "$type": "color",
-        "$value": "#377BF1",
-        "$description": "AA text: blue0"
-      },
-      "blue50": {
-        "$type": "color",
-        "$value": "#509BF7",
-        "$description": "AA text: blue15"
-      },
-      "blue60": {
-        "$type": "color",
-        "$value": "#63B2F8",
-        "$description": "AA text: blue20"
-      },
-      "blue70": {
-        "$type": "color",
-        "$value": "#93C9FB",
-        "$description": "AA text: blue20"
-      },
-      "blue80": {
-        "$type": "color",
-        "$value": "#BDDDF9",
-        "$description": "AA text: blue20"
-      },
-      "blue90": {
-        "$type": "color",
-        "$value": "#DDF2FE",
-        "$description": "AA text: blue30"
-      },
-      "blue100": {
-        "$type": "color",
-        "$value": "#FAFDFF",
-        "$description": "AA text: blue30"
-      }
-    },
     "gray": {
-      "gray0": {
-        "$type": "color",
-        "$value": "#000000",
-        "$description": "AA text: gray50"
+      "0": {
+        "value": "#000000",
+        "type": "color",
+        "description": "AA text: gray50"
       },
-      "gray5": {
-        "$type": "color",
-        "$value": "#101114",
-        "$description": "AA text: gray50"
+      "5": {
+        "value": "#101114",
+        "type": "color",
+        "description": "AA text: gray50"
       },
-      "gray10": {
-        "$type": "color",
-        "$value": "#191B1F",
-        "$description": "AA text: gray60"
+      "10": {
+        "value": "#191b1f",
+        "type": "color",
+        "description": "AA text: gray60"
       },
-      "gray15": {
-        "$type": "color",
-        "$value": "#25272D",
-        "$description": "Border Color\n\nAA text: gray60"
+      "15": {
+        "value": "#25272d",
+        "type": "color",
+        "description": "Border Color\n\nAA text: gray60"
       },
-      "gray20*": {
-        "$type": "color",
-        "$value": "#33363D",
-        "$description": "AA text: gray60"
+      "20": {
+        "value": "#33363d",
+        "type": "color",
+        "description": "AA text: gray60"
       },
-      "gray25": {
-        "$type": "color",
-        "$value": "#40444F",
-        "$description": "AA text: gray70"
+      "25": {
+        "value": "#40444f",
+        "type": "color",
+        "description": "AA text: gray70"
       },
-      "gray30": {
-        "$type": "color",
-        "$value": "#545A64",
-        "$description": "AA text: gray80"
+      "30": {
+        "value": "#545a64",
+        "type": "color",
+        "description": "AA text: gray80"
       },
-      "gray40": {
-        "$type": "color",
-        "$value": "#6D727E",
-        "$description": "AA text: gray100"
+      "40": {
+        "value": "#6d727e",
+        "type": "color",
+        "description": "AA text: gray100"
       },
-      "gray50": {
-        "$type": "color",
-        "$value": "#8B8F98",
-        "$description": "AA text: gray0"
+      "50": {
+        "value": "#8b8f98",
+        "type": "color",
+        "description": "AA text: gray0"
       },
-      "gray60": {
-        "$type": "color",
-        "$value": "#9BA3AB",
-        "$description": "AA text: gray10"
+      "60": {
+        "value": "#9ba3ab",
+        "type": "color",
+        "description": "AA text: gray10"
       },
-      "gray70": {
-        "$type": "color",
-        "$value": "#B5BDC5",
-        "$description": "AA text: gray20"
+      "70": {
+        "value": "#b5bdc5",
+        "type": "color",
+        "description": "AA text: gray20"
       },
-      "gray80": {
-        "$type": "color",
-        "$value": "#D1D7DC",
-        "$description": "AA text: gray30"
+      "80": {
+        "value": "#d1d7dc",
+        "type": "color",
+        "description": "AA text: gray30"
       },
-      "gray90": {
-        "$type": "color",
-        "$value": "#E8EAED",
-        "$description": "AA text: gray30"
+      "90": {
+        "value": "#e8eaed",
+        "type": "color",
+        "description": "AA text: gray30"
       },
-      "gray100": {
-        "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "AA text: gray40"
-      }
-    },
-    "indigo": {
-      "indigo5": {
-        "$type": "color",
-        "$value": "#080E33",
-        "$description": "AA text: indigo50"
-      },
-      "indigo10": {
-        "$type": "color",
-        "$value": "#0C1850",
-        "$description": "AA text: indigo50"
-      },
-      "indigo15": {
-        "$type": "color",
-        "$value": "#132377",
-        "$description": "AA text: indigo60"
-      },
-      "indigo20": {
-        "$type": "color",
-        "$value": "#1D3098",
-        "$description": "AA text: indigo70"
-      },
-      "indigo25": {
-        "$type": "color",
-        "$value": "#263EBA",
-        "$description": "AA text: indigo80"
-      },
-      "indigo30": {
-        "$type": "color",
-        "$value": "#3952D5",
-        "$description": "AA text: indigo90"
-      },
-      "indigo40": {
-        "$type": "color",
-        "$value": "#5968EE",
-        "$description": "AA text: gray100"
-      },
-      "indigo50": {
-        "$type": "color",
-        "$value": "#7588F5",
-        "$description": "AA text: indigo5"
-      },
-      "indigo60": {
-        "$type": "color",
-        "$value": "#8E9CF5",
-        "$description": "AA text: indigo10"
-      },
-      "indigo70": {
-        "$type": "color",
-        "$value": "#B0B9FD",
-        "$description": "AA text: indigo20"
-      },
-      "indigo80": {
-        "$type": "color",
-        "$value": "#CDD3FE",
-        "$description": "AA text: indigo20"
-      },
-      "indigo90": {
-        "$type": "color",
-        "$value": "#EBEDFF",
-        "$description": "AA text: indigo30"
-      },
-      "indigo100": {
-        "$type": "color",
-        "$value": "#FAFAFF",
-        "$description": "AA text: indigo30"
+      "100": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "AA text: gray40"
       }
     },
     "red": {
-      "red5": {
-        "$type": "color",
-        "$value": "#2C0216",
-        "$description": "AA text: red50"
+      "5": {
+        "value": "#2c0216",
+        "type": "color",
+        "description": "AA text: red50"
       },
-      "red10": {
-        "$type": "color",
-        "$value": "#4D0025",
-        "$description": "AA text: red50"
+      "10": {
+        "value": "#4d0025",
+        "type": "color",
+        "description": "AA text: red50"
       },
-      "red15": {
-        "$type": "color",
-        "$value": "#670434",
-        "$description": "AA text: red70"
+      "15": {
+        "value": "#670434",
+        "type": "color",
+        "description": "AA text: red70"
       },
-      "red20": {
-        "$type": "color",
-        "$value": "#810E3C",
-        "$description": "AA text: red80"
+      "20": {
+        "value": "#810e3c",
+        "type": "color",
+        "description": "AA text: red80"
       },
-      "red25": {
-        "$type": "color",
-        "$value": "#9A1841",
-        "$description": "AA text: red80"
+      "25": {
+        "value": "#9a1841",
+        "type": "color",
+        "description": "AA text: red80"
       },
-      "red30": {
-        "$type": "color",
-        "$value": "#BC2950",
-        "$description": "AA text: red90"
+      "30": {
+        "value": "#bc2950",
+        "type": "color",
+        "description": "AA text: red90"
       },
-      "red40": {
-        "$type": "color",
-        "$value": "#CF4462",
-        "$description": "AA text: gray100"
+      "40": {
+        "value": "#cf4462",
+        "type": "color",
+        "description": "AA text: gray100"
       },
-      "red50*": {
-        "$type": "color",
-        "$value": "#EE6368",
-        "$description": "AA text: red0"
+      "60": {
+        "value": "#fe7a71",
+        "type": "color",
+        "description": "AA text: red5"
       },
-      "red60": {
-        "$type": "color",
-        "$value": "#FE7A71",
-        "$description": "AA text: red5"
+      "70": {
+        "value": "#ffa08f",
+        "type": "color",
+        "description": "AA text: red10"
       },
-      "red70": {
-        "$type": "color",
-        "$value": "#FFA08F",
-        "$description": "AA text: red10"
+      "80": {
+        "value": "#ffc6b8",
+        "type": "color",
+        "description": "AA text: red20"
       },
-      "red80": {
-        "$type": "color",
-        "$value": "#FFC6B8",
-        "$description": "AA text: red20"
+      "90": {
+        "value": "#fee3dd",
+        "type": "color",
+        "description": "AA text: red30"
       },
-      "red90": {
-        "$type": "color",
-        "$value": "#FEE3DD",
-        "$description": "AA text: red30"
+      "100": {
+        "value": "#fff6f5",
+        "type": "color",
+        "description": "AA text: red30"
       },
-      "red100": {
-        "$type": "color",
-        "$value": "#FFF6F5",
-        "$description": "AA text: red30"
+      "50*": {
+        "value": "#ee6368",
+        "type": "color",
+        "description": "AA text: red0"
       }
     },
     "orange": {
-      "orange5": {
-        "$type": "color",
-        "$value": "#2E0600",
-        "$description": "AA text: orange50"
+      "5": {
+        "value": "#2e0600",
+        "type": "color",
+        "description": "AA text: orange50"
       },
-      "orange10": {
-        "$type": "color",
-        "$value": "#420C00",
-        "$description": "AA text: orange60"
+      "10": {
+        "value": "#420c00",
+        "type": "color",
+        "description": "AA text: orange60"
       },
-      "orange15": {
-        "$type": "color",
-        "$value": "#551507",
-        "$description": "AA text: orange60"
+      "15": {
+        "value": "#551507",
+        "type": "color",
+        "description": "AA text: orange60"
       },
-      "orange20": {
-        "$type": "color",
-        "$value": "#732002",
-        "$description": "AA text: orange70"
+      "20": {
+        "value": "#732002",
+        "type": "color",
+        "description": "AA text: orange70"
       },
-      "orange25": {
-        "$type": "color",
-        "$value": "#8F2A05",
-        "$description": "AA text: orange80"
+      "25": {
+        "value": "#8f2a05",
+        "type": "color",
+        "description": "AA text: orange80"
       },
-      "orange30": {
-        "$type": "color",
-        "$value": "#B43B04",
-        "$description": "AA text: orange100"
+      "30": {
+        "value": "#b43b04",
+        "type": "color",
+        "description": "AA text: orange100"
       },
-      "orange40": {
-        "$type": "color",
-        "$value": "#D45608",
-        "$description": "AA text: gray0"
+      "40": {
+        "value": "#d45608",
+        "type": "color",
+        "description": "AA text: gray0"
       },
-      "orange50": {
-        "$type": "color",
-        "$value": "#EA7610",
-        "$description": "AA text: orange0"
+      "50": {
+        "value": "#ea7610",
+        "type": "color",
+        "description": "AA text: orange0"
       },
-      "orange60": {
-        "$type": "color",
-        "$value": "#F18A41",
-        "$description": "AA text: orange5"
+      "60": {
+        "value": "#f18a41",
+        "type": "color",
+        "description": "AA text: orange5"
       },
-      "orange70": {
-        "$type": "color",
-        "$value": "#F8AD62",
-        "$description": "AA text: orange10"
+      "70": {
+        "value": "#f8ad62",
+        "type": "color",
+        "description": "AA text: orange10"
       },
-      "orange80*": {
-        "$type": "color",
-        "$value": "#FCD092",
-        "$description": "AA text: orange20"
+      "80": {
+        "value": "#fcd092",
+        "type": "color",
+        "description": "AA text: orange20"
       },
-      "orange90": {
-        "$type": "color",
-        "$value": "#FDE8CE",
-        "$description": "AA text: orange30"
+      "90": {
+        "value": "#fde8ce",
+        "type": "color",
+        "description": "AA text: orange30"
       },
-      "orange100": {
-        "$type": "color",
-        "$value": "#FFFAF5",
-        "$description": "AA text: orange30"
-      }
-    },
-    "purple": {
-      "purple5": {
-        "$type": "color",
-        "$value": "#150A2E",
-        "$description": "AA text: purple50"
-      },
-      "purple10": {
-        "$type": "color",
-        "$value": "#211047",
-        "$description": "AA text: purple50"
-      },
-      "purple15": {
-        "$type": "color",
-        "$value": "#2F195D",
-        "$description": "AA text: purple60"
-      },
-      "purple20": {
-        "$type": "color",
-        "$value": "#432088",
-        "$description": "AA text: purple70"
-      },
-      "purple25": {
-        "$type": "color",
-        "$value": "#532BA1",
-        "$description": "AA text: purple70"
-      },
-      "purple30": {
-        "$type": "color",
-        "$value": "#6E37D2",
-        "$description": "AA text: purple90"
-      },
-      "purple40": {
-        "$type": "color",
-        "$value": "#8854E3",
-        "$description": "AA text: purple100"
-      },
-      "purple50": {
-        "$type": "color",
-        "$value": "#A072EE",
-        "$description": "AA text: purple5"
-      },
-      "purple60": {
-        "$type": "color",
-        "$value": "#B28AF3",
-        "$description": "AA text: purple10"
-      },
-      "purple70": {
-        "$type": "color",
-        "$value": "#CCACFC",
-        "$description": "AA text: purple20"
-      },
-      "purple80": {
-        "$type": "color",
-        "$value": "#E0C9FD",
-        "$description": "AA text: purple20"
-      },
-      "purple90": {
-        "$type": "color",
-        "$value": "#F1E7FE",
-        "$description": "AA text: purple30"
-      },
-      "purple100": {
-        "$type": "color",
-        "$value": "#FDFAFF",
-        "$description": "AA text: purple40"
+      "100": {
+        "value": "#fffaf5",
+        "type": "color",
+        "description": "AA text: orange30"
       }
     },
     "yellow": {
-      "yellow5": {
-        "$type": "color",
-        "$value": "#220C01",
-        "$description": "AA text: yellow50"
+      "5": {
+        "value": "#220c01",
+        "type": "color",
+        "description": "AA text: yellow50"
       },
-      "yellow10": {
-        "$type": "color",
-        "$value": "#331400",
-        "$description": "AA text: yellow50"
+      "10": {
+        "value": "#331400",
+        "type": "color",
+        "description": "AA text: yellow50"
       },
-      "yellow15": {
-        "$type": "color",
-        "$value": "#461F01",
-        "$description": "AA text: yellow50"
+      "15": {
+        "value": "#461f01",
+        "type": "color",
+        "description": "AA text: yellow50"
       },
-      "yellow20": {
-        "$type": "color",
-        "$value": "#5A2E02",
-        "$description": "AA text: yellow60"
+      "20": {
+        "value": "#5a2e02",
+        "type": "color",
+        "description": "AA text: yellow60"
       },
-      "yellow25": {
-        "$type": "color",
-        "$value": "#6F3A02",
-        "$description": "AA text: yellow70"
+      "25": {
+        "value": "#6f3a02",
+        "type": "color",
+        "description": "AA text: yellow70"
       },
-      "yellow30": {
-        "$type": "color",
-        "$value": "#875203",
-        "$description": "AA text: yellow80"
+      "30": {
+        "value": "#875203",
+        "type": "color",
+        "description": "AA text: yellow80"
       },
-      "yellow40": {
-        "$type": "color",
-        "$value": "#A56F0D",
-        "$description": "AA text: n/a"
+      "40": {
+        "value": "#a56f0d",
+        "type": "color",
+        "description": "AA text: n/a"
       },
-      "yellow50": {
-        "$type": "color",
-        "$value": "#B78D1F",
-        "$description": "AA text: yellow10"
+      "50": {
+        "value": "#b78d1f",
+        "type": "color",
+        "description": "AA text: yellow10"
       },
-      "yellow60": {
-        "$type": "color",
-        "$value": "#C9A32C",
-        "$description": "AA text: yellow15"
+      "60": {
+        "value": "#c9a32c",
+        "type": "color",
+        "description": "AA text: yellow15"
       },
-      "yellow70": {
-        "$type": "color",
-        "$value": "#E3C135",
-        "$description": "AA text: yellow20"
+      "70": {
+        "value": "#e3c135",
+        "type": "color",
+        "description": "AA text: yellow20"
       },
-      "yellow80": {
-        "$type": "color",
-        "$value": "#F4DA6C",
-        "$description": "AA text: yellow30"
+      "80": {
+        "value": "#f4da6c",
+        "type": "color",
+        "description": "AA text: yellow30"
       },
-      "yellow90": {
-        "$type": "color",
-        "$value": "#FCEFB0",
-        "$description": "AA text: yellow30"
+      "90": {
+        "value": "#fcefb0",
+        "type": "color",
+        "description": "AA text: yellow30"
       },
-      "yellow100": {
-        "$type": "color",
-        "$value": "#FFFDF4",
-        "$description": "AA text: yellow30"
-      }
-    },
-    "pink": {
-      "pink5": {
-        "$type": "color",
-        "$value": "#23061D",
-        "$description": "AA text: pink50"
-      },
-      "pink10": {
-        "$type": "color",
-        "$value": "#320C2B",
-        "$description": "AA text: pink50"
-      },
-      "pink15": {
-        "$type": "color",
-        "$value": "#4C1042",
-        "$description": "AA text: pink60"
-      },
-      "pink20": {
-        "$type": "color",
-        "$value": "#6B145D",
-        "$description": "AA text: pink70"
-      },
-      "pink25": {
-        "$type": "color",
-        "$value": "#7E1E6F",
-        "$description": "AA text: pink70"
-      },
-      "pink30": {
-        "$type": "color",
-        "$value": "#9F2C8E",
-        "$description": "AA text: pink90"
-      },
-      "pink40": {
-        "$type": "color",
-        "$value": "#BB44AB",
-        "$description": "AA text: gray100"
-      },
-      "pink50": {
-        "$type": "color",
-        "$value": "#CB62BD",
-        "$description": "AA text: pink0"
-      },
-      "pink60": {
-        "$type": "color",
-        "$value": "#E279D6",
-        "$description": "AA text: pink10"
-      },
-      "pink70": {
-        "$type": "color",
-        "$value": "#EF9FE8",
-        "$description": "AA text: pink20"
-      },
-      "pink80": {
-        "$type": "color",
-        "$value": "#F7C0F4",
-        "$description": "AA text: pink20"
-      },
-      "pink90": {
-        "$type": "color",
-        "$value": "#FDE3FD",
-        "$description": "AA text: pink30"
-      },
-      "pink100": {
-        "$type": "color",
-        "$value": "#FAF5FF",
-        "$description": "AA text: pink30"
+      "100": {
+        "value": "#fffdf4",
+        "type": "color",
+        "description": "AA text: yellow30"
       }
     },
     "green": {
-      "green5": {
-        "$type": "color",
-        "$value": "#01190F",
-        "$description": "AA text: green40"
+      "5": {
+        "value": "#01190f",
+        "type": "color",
+        "description": "AA text: green40"
       },
-      "green10": {
-        "$type": "color",
-        "$value": "#002918",
-        "$description": "AA text: green40"
+      "10": {
+        "value": "#002918",
+        "type": "color",
+        "description": "AA text: green40"
       },
-      "green15": {
-        "$type": "color",
-        "$value": "#023B22",
-        "$description": "AA text: green50"
+      "15": {
+        "value": "#023b22",
+        "type": "color",
+        "description": "AA text: green50"
       },
-      "green20": {
-        "$type": "color",
-        "$value": "#025230",
-        "$description": "AA text: green70"
+      "20": {
+        "value": "#025230",
+        "type": "color",
+        "description": "AA text: green70"
       },
-      "green25": {
-        "$type": "color",
-        "$value": "#05663A",
-        "$description": "AA text: green80"
+      "25": {
+        "value": "#05663a",
+        "type": "color",
+        "description": "AA text: green80"
       },
-      "green30": {
-        "$type": "color",
-        "$value": "#058550",
-        "$description": "AA text: green100"
+      "30": {
+        "value": "#058550",
+        "type": "color",
+        "description": "AA text: green100"
       },
-      "green40": {
-        "$type": "color",
-        "$value": "#0DAB69",
-        "$description": "AA text: green5"
+      "40": {
+        "value": "#0dab69",
+        "type": "color",
+        "description": "AA text: green5"
       },
-      "green50": {
-        "$type": "color",
-        "$value": "#26C583",
-        "$description": "AA text: green10"
+      "50": {
+        "value": "#26c583",
+        "type": "color",
+        "description": "AA text: green10"
       },
-      "green60": {
-        "$type": "color",
-        "$value": "#49D097",
-        "$description": "AA text: green15"
+      "60": {
+        "value": "#49d097",
+        "type": "color",
+        "description": "AA text: green15"
       },
-      "green70": {
-        "$type": "color",
-        "$value": "#87D9B6",
-        "$description": "AA text: green15"
+      "70": {
+        "value": "#87d9b6",
+        "type": "color",
+        "description": "AA text: green15"
       },
-      "green80": {
-        "$type": "color",
-        "$value": "#B0E8D1",
-        "$description": "AA text: green20"
+      "80": {
+        "value": "#b0e8d1",
+        "type": "color",
+        "description": "AA text: green20"
       },
-      "green90": {
-        "$type": "color",
-        "$value": "#D4F7E7",
-        "$description": "AA text: green20"
+      "90": {
+        "value": "#d4f7e7",
+        "type": "color",
+        "description": "AA text: green20"
       },
-      "green100": {
-        "$type": "color",
-        "$value": "#F5FFFB",
-        "$description": "AA text: green30"
+      "100": {
+        "value": "#f5fffb",
+        "type": "color",
+        "description": "AA text: green30"
       }
     },
     "teal": {
-      "teal5": {
-        "$type": "color",
-        "$value": "#011523",
-        "$description": "AA text: teal40"
+      "5": {
+        "value": "#011523",
+        "type": "color",
+        "description": "AA text: teal40"
       },
-      "teal10": {
-        "$type": "color",
-        "$value": "#002338",
-        "$description": "AA text: teal40"
+      "10": {
+        "value": "#002338",
+        "type": "color",
+        "description": "AA text: teal40"
       },
-      "teal15": {
-        "$type": "color",
-        "$value": "#01334C",
-        "$description": "AA text: teal50"
+      "15": {
+        "value": "#01334c",
+        "type": "color",
+        "description": "AA text: teal50"
       },
-      "teal20": {
-        "$type": "color",
-        "$value": "#044762",
-        "$description": "AA text: teal60"
+      "20": {
+        "value": "#044762",
+        "type": "color",
+        "description": "AA text: teal60"
       },
-      "teal25": {
-        "$type": "color",
-        "$value": "#005C7A",
-        "$description": "AA text: teal70"
+      "25": {
+        "value": "#005c7a",
+        "type": "color",
+        "description": "AA text: teal70"
       },
-      "teal30": {
-        "$type": "color",
-        "$value": "#057A8F",
-        "$description": "AA text: teal100"
+      "30": {
+        "value": "#057a8f",
+        "type": "color",
+        "description": "AA text: teal100"
       },
-      "teal40": {
-        "$type": "color",
-        "$value": "#179AA6",
-        "$description": "AA text: teal5"
+      "40": {
+        "value": "#179aa6",
+        "type": "color",
+        "description": "AA text: teal5"
       },
-      "teal50": {
-        "$type": "color",
-        "$value": "#13C1CD",
-        "$description": "AA text: teal15"
+      "50": {
+        "value": "#13c1cd",
+        "type": "color",
+        "description": "AA text: teal15"
       },
-      "teal60*": {
-        "$type": "color",
-        "$value": "#11DFDF",
-        "$description": "AA text: teal15"
+      "60": {
+        "value": "#11dfdf",
+        "type": "color",
+        "description": "AA text: teal15"
       },
-      "teal70": {
-        "$type": "color",
-        "$value": "#5CE8EB",
-        "$description": "AA text: teal20"
+      "70": {
+        "value": "#5ce8eb",
+        "type": "color",
+        "description": "AA text: teal20"
       },
-      "teal80": {
-        "$type": "color",
-        "$value": "#97F1F2",
-        "$description": "AA text: teal20"
+      "80": {
+        "value": "#97f1f2",
+        "type": "color",
+        "description": "AA text: teal20"
       },
-      "teal90": {
-        "$type": "color",
-        "$value": "#C9F9FD",
-        "$description": "AA text: teal20"
+      "90": {
+        "value": "#c9f9fd",
+        "type": "color",
+        "description": "AA text: teal20"
       },
-      "teal100": {
-        "$type": "color",
-        "$value": "#F5FEFF",
-        "$description": "AA text: teal30"
+      "100": {
+        "value": "#f5feff",
+        "type": "color",
+        "description": "AA text: teal30"
+      }
+    },
+    "blue": {
+      "5": {
+        "value": "#020b36",
+        "type": "color",
+        "description": "AA text: blue40"
+      },
+      "10": {
+        "value": "#07153c",
+        "type": "color",
+        "description": "AA text: blue50"
+      },
+      "15": {
+        "value": "#031e49",
+        "type": "color",
+        "description": "AA text: blue50"
+      },
+      "20": {
+        "value": "#05285c",
+        "type": "color",
+        "description": "AA text: blue50"
+      },
+      "25": {
+        "value": "#043c8f",
+        "type": "color",
+        "description": "AA text: blue60"
+      },
+      "30": {
+        "value": "#0d59de",
+        "type": "color",
+        "description": "AA text: blue90"
+      },
+      "40": {
+        "value": "#377bf1",
+        "type": "color",
+        "description": "AA text: blue0"
+      },
+      "50": {
+        "value": "#509bf7",
+        "type": "color",
+        "description": "AA text: blue15"
+      },
+      "60": {
+        "value": "#63b2f8",
+        "type": "color",
+        "description": "AA text: blue20"
+      },
+      "70": {
+        "value": "#93c9fb",
+        "type": "color",
+        "description": "AA text: blue20"
+      },
+      "80": {
+        "value": "#bdddf9",
+        "type": "color",
+        "description": "AA text: blue20"
+      },
+      "90": {
+        "value": "#ddf2fe",
+        "type": "color",
+        "description": "AA text: blue30"
+      },
+      "100": {
+        "value": "#fafdff",
+        "type": "color",
+        "description": "AA text: blue30"
+      }
+    },
+    "indigo": {
+      "5": {
+        "value": "#080e33",
+        "type": "color",
+        "description": "AA text: indigo50"
+      },
+      "10": {
+        "value": "#0c1850",
+        "type": "color",
+        "description": "AA text: indigo50"
+      },
+      "15": {
+        "value": "#132377",
+        "type": "color",
+        "description": "AA text: indigo60"
+      },
+      "20": {
+        "value": "#1d3098",
+        "type": "color",
+        "description": "AA text: indigo70"
+      },
+      "25": {
+        "value": "#263eba",
+        "type": "color",
+        "description": "AA text: indigo80"
+      },
+      "30": {
+        "value": "#3952d5",
+        "type": "color",
+        "description": "AA text: indigo90"
+      },
+      "40": {
+        "value": "#5968ee",
+        "type": "color",
+        "description": "AA text: gray100"
+      },
+      "50": {
+        "value": "#7588f5",
+        "type": "color",
+        "description": "AA text: indigo5"
+      },
+      "60": {
+        "value": "#8e9cf5",
+        "type": "color",
+        "description": "AA text: indigo10"
+      },
+      "70": {
+        "value": "#b0b9fd",
+        "type": "color",
+        "description": "AA text: indigo20"
+      },
+      "80": {
+        "value": "#cdd3fe",
+        "type": "color",
+        "description": "AA text: indigo20"
+      },
+      "90": {
+        "value": "#ebedff",
+        "type": "color",
+        "description": "AA text: indigo30"
+      },
+      "100": {
+        "value": "#fafaff",
+        "type": "color",
+        "description": "AA text: indigo30"
+      }
+    },
+    "purple": {
+      "5": {
+        "value": "#150a2e",
+        "type": "color",
+        "description": "AA text: purple50"
+      },
+      "10": {
+        "value": "#211047",
+        "type": "color",
+        "description": "AA text: purple50"
+      },
+      "15": {
+        "value": "#2f195d",
+        "type": "color",
+        "description": "AA text: purple60"
+      },
+      "20": {
+        "value": "#432088",
+        "type": "color",
+        "description": "AA text: purple70"
+      },
+      "25": {
+        "value": "#532ba1",
+        "type": "color",
+        "description": "AA text: purple70"
+      },
+      "30": {
+        "value": "#6e37d2",
+        "type": "color",
+        "description": "AA text: purple90"
+      },
+      "40": {
+        "value": "#8854e3",
+        "type": "color",
+        "description": "AA text: purple100"
+      },
+      "50": {
+        "value": "#a072ee",
+        "type": "color",
+        "description": "AA text: purple5"
+      },
+      "60": {
+        "value": "#b28af3",
+        "type": "color",
+        "description": "AA text: purple10"
+      },
+      "70": {
+        "value": "#ccacfc",
+        "type": "color",
+        "description": "AA text: purple20"
+      },
+      "80": {
+        "value": "#e0c9fd",
+        "type": "color",
+        "description": "AA text: purple20"
+      },
+      "90": {
+        "value": "#f1e7fe",
+        "type": "color",
+        "description": "AA text: purple30"
+      },
+      "100": {
+        "value": "#fdfaff",
+        "type": "color",
+        "description": "AA text: purple40"
+      }
+    },
+    "pink": {
+      "5": {
+        "value": "#23061d",
+        "type": "color",
+        "description": "AA text: pink50"
+      },
+      "10": {
+        "value": "#320c2b",
+        "type": "color",
+        "description": "AA text: pink50"
+      },
+      "15": {
+        "value": "#4c1042",
+        "type": "color",
+        "description": "AA text: pink60"
+      },
+      "20": {
+        "value": "#6b145d",
+        "type": "color",
+        "description": "AA text: pink70"
+      },
+      "25": {
+        "value": "#7e1e6f",
+        "type": "color",
+        "description": "AA text: pink70"
+      },
+      "30": {
+        "value": "#9f2c8e",
+        "type": "color",
+        "description": "AA text: pink90"
+      },
+      "40": {
+        "value": "#bb44ab",
+        "type": "color",
+        "description": "AA text: gray100"
+      },
+      "50": {
+        "value": "#cb62bd",
+        "type": "color",
+        "description": "AA text: pink0"
+      },
+      "60": {
+        "value": "#e279d6",
+        "type": "color",
+        "description": "AA text: pink10"
+      },
+      "70": {
+        "value": "#ef9fe8",
+        "type": "color",
+        "description": "AA text: pink20"
+      },
+      "80": {
+        "value": "#f7c0f4",
+        "type": "color",
+        "description": "AA text: pink20"
+      },
+      "90": {
+        "value": "#fde3fd",
+        "type": "color",
+        "description": "AA text: pink30"
+      },
+      "100": {
+        "value": "#faf5ff",
+        "type": "color",
+        "description": "AA text: pink30"
+      }
+    },
+    "alpha": {
+      "5": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".05",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "10": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".1",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "15": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".15",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "20": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".20",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "25": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".25",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "30": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".3",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "40": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".4",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "50": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".5",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "60": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".6",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "70": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".7",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "80": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".8",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "90": {
+        "value": "{dark.gray.100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".9",
+              "space": "hsl"
+            }
+          }
+        }
       }
     }
   }

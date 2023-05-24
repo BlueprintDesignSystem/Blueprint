@@ -2,27 +2,51 @@
   "border": {
     "sm": {
       "$value": {
-        "width": "1",
-        "style": "solid",
-        "color": "{light.gray.gray15}"
-      },
-      "$type": "border"
+        "width": {
+          "value": "1",
+          "type": "border"
+        },
+        "style": {
+          "value": "solid",
+          "type": "border"
+        },
+        "color": {
+          "value": "{gray.15}",
+          "type": "border"
+        }
+      }
     },
     "md": {
       "$value": {
-        "width": "2",
-        "style": "solid",
-        "color": "{light.gray.gray15}"
-      },
-      "$type": "border"
+        "width": {
+          "value": "2",
+          "type": "border"
+        },
+        "style": {
+          "value": "solid",
+          "type": "border"
+        },
+        "color": {
+          "value": "{gray.15}",
+          "type": "border"
+        }
+      }
     },
     "lg": {
       "$value": {
-        "width": "3",
-        "style": "solid",
-        "color": "{light.gray.gray15}"
-      },
-      "$type": "border"
+        "width": {
+          "value": "3",
+          "type": "border"
+        },
+        "style": {
+          "value": "solid",
+          "type": "border"
+        },
+        "color": {
+          "value": "{gray.15}",
+          "type": "border"
+        }
+      }
     }
   }
 }
